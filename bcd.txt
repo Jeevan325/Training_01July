@@ -1,0 +1,3 @@
+Hi this is under bug branch
+
+Hi this is under master branch
